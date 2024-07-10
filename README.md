@@ -4,6 +4,9 @@ Welcome to the Spotify Data Analysis Dashboard! This interactive Power BI dashbo
 
 ## Dashboard Overview
 
+![image](https://github.com/RahulHans31/Spotify_data_analysis/assets/94359468/cab04e1f-df07-4ee9-8853-446c12d122f1)
+
+
 The Spotify Data Analysis Dashboard includes several key metrics and visualizations:
 
 - **Total Songs:** 4313
